@@ -1,0 +1,7 @@
+{
+  "name": "future-talk-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
